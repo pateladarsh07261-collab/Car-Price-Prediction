@@ -187,9 +187,8 @@ car_output.csv
 **Adarsh Patidar**
 
 - 📧 Email: pateladarsh07261@gmail.com
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
-- 💻 GitHub: *(Add your GitHub URL)*
-
+- 💼 LinkedIn: https://www.linkedin.com/in/adarsh-patidar-500109369/
+- 💻 GitHub: https://github.com/pateladarsh07261-collab
 ---
 
 ⭐ If you found this project useful, don't forget to star the repository.
